@@ -1,0 +1,16 @@
+{
+  "name": "backend-projects",
+  "version": "1.0.0",
+  "description": "a complete backend project",
+  "repository": {
+    "type": "git",
+    "url": "javaScript, backend"
+  },
+  "license": "ISC",
+  "author": "Prachi Pundir",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
