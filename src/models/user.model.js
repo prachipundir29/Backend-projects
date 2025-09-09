@@ -50,7 +50,7 @@ const userSchema = new Schema({
     timestamps: true
 });
 
-
+// Helllo EverYOne
 
 
 export const User = mongoose.model("User", userSchema)
